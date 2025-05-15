@@ -1,0 +1,26 @@
+# PDF processing
+PyPDF2>=3.0.0
+pdfplumber>=0.11.0
+pdf2image>=1.16.0
+
+# OCR
+pytesseract>=0.3.10
+
+# Data processing
+pandas>=2.0.0
+
+# Web interface
+streamlit>=1.25.0
+Flask>=2.0.0
+
+# Image processing
+Pillow>=10.0.0
+
+# Date parsing
+python-dateutil>=2.8.2
+
+# Document processing
+python-docx>=1.0.0
+
+# Excel export
+xlsxwriter>=3.0.0

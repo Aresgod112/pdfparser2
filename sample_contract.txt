@@ -1,0 +1,95 @@
+SERVICES AGREEMENT
+
+THIS AGREEMENT is made as of January 15, 2025 (the "Effective Date")
+
+BETWEEN:
+
+ACME CORPORATION, a company incorporated under the laws of Delaware, with its principal place of business at 123 Main Street, San Francisco, CA 94105 ("Service Provider")
+
+AND:
+
+GLOBEX INDUSTRIES, a company incorporated under the laws of New York, with its principal place of business at 456 Park Avenue, New York, NY 10022 ("Client")
+
+WHEREAS:
+
+A. The Service Provider is in the business of providing software development and consulting services.
+
+B. The Client wishes to engage the Service Provider to provide certain services, and the Service Provider has agreed to provide such services to the Client, in accordance with the terms and conditions of this Agreement.
+
+NOW THEREFORE, in consideration of the mutual covenants and agreements contained in this Agreement and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:
+
+1. SERVICES
+
+1.1 The Service Provider shall provide to the Client the services described in Schedule A attached hereto (the "Services").
+
+1.2 The Service Provider shall perform the Services in a professional and workmanlike manner and in accordance with all applicable laws, regulations, and industry standards.
+
+2. TERM
+
+2.1 This Agreement shall commence on the Effective Date and shall continue for an initial term of 24 months (the "Initial Term"), unless earlier terminated in accordance with the provisions of this Agreement.
+
+2.2 Following the Initial Term, this Agreement shall automatically renew for successive 12-month periods (each, a "Renewal Term"), unless either party provides written notice of non-renewal to the other party at least 60 days prior to the expiration of the Initial Term or the then-current Renewal Term, as applicable.
+
+3. FEES AND PAYMENT
+
+3.1 The Client shall pay to the Service Provider the fees set out in Schedule B attached hereto (the "Fees").
+
+3.2 The Service Provider shall invoice the Client monthly in arrears for the Fees, and the Client shall pay each invoice within 30 days of receipt.
+
+3.3 All Fees are exclusive of applicable taxes, which shall be charged to the Client in addition to the Fees.
+
+4. CONFIDENTIALITY
+
+4.1 Each party acknowledges that it may receive confidential information of the other party during the performance of this Agreement.
+
+4.2 Each party agrees to maintain the confidentiality of the other party's confidential information and not to disclose such confidential information to any third party without the prior written consent of the other party.
+
+5. TERMINATION
+
+5.1 Either party may terminate this Agreement immediately upon written notice to the other party if the other party breaches any material term of this Agreement and fails to remedy such breach within 30 days of receiving written notice of the breach.
+
+6. GENERAL
+
+6.1 This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior agreements, understandings, and negotiations, whether written or oral, between the parties with respect to such subject matter.
+
+6.2 This Agreement may only be amended by a written instrument executed by both parties.
+
+6.3 This Agreement shall be governed by and construed in accordance with the laws of the State of California.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+ACME CORPORATION
+
+By: ____________________________
+Name: John Smith
+Title: CEO
+Date: January 15, 2025
+
+GLOBEX INDUSTRIES
+
+By: ____________________________
+Name: Jane Doe
+Title: CTO
+Date: January 15, 2025
+
+SCHEDULE A
+SERVICES
+
+The Service Provider shall provide the following services to the Client:
+
+1. Software development services
+2. Technical consulting services
+3. Project management services
+4. Quality assurance and testing services
+
+SCHEDULE B
+FEES
+
+The Client shall pay to the Service Provider the following fees:
+
+1. $150 per hour for software development services
+2. $200 per hour for technical consulting services
+3. $175 per hour for project management services
+4. $125 per hour for quality assurance and testing services
+
+All fees are in US dollars.

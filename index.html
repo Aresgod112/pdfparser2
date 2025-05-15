@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PDF Parser</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+            color: #333;
+        }
+        h1 {
+            color: #1E88E5;
+            margin-bottom: 10px;
+        }
+        h2 {
+            color: #424242;
+            margin-top: 30px;
+            margin-bottom: 10px;
+        }
+        .container {
+            border: 1px solid #ddd;
+            padding: 20px;
+            border-radius: 5px;
+            margin-top: 20px;
+            background-color: #fff;
+        }
+        .note {
+            background-color: #f8f9fa;
+            padding: 15px;
+            border-left: 4px solid #1E88E5;
+            margin-bottom: 20px;
+        }
+        .button {
+            display: inline-block;
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 15px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 15px;
+            font-weight: bold;
+        }
+        .button:hover {
+            background-color: #45a049;
+        }
+        ul, ol {
+            margin-bottom: 20px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        code {
+            background-color: #f5f5f5;
+            padding: 2px 5px;
+            border-radius: 3px;
+            font-family: monospace;
+        }
+        .footer {
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #eee;
+            text-align: center;
+            font-size: 0.9em;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <h1>📄 Contract PDF Parser</h1>
+    <p>A Python application that extracts key information from contract PDFs</p>
+    
+    <div class="note">
+        <strong>Note:</strong> This is a static landing page. The full PDF Parser application needs to be run locally.
+    </div>
+    
+    <div class="container">
+        <h2>About This Application</h2>
+        <p>The PDF Parser application extracts key information from contract PDFs:</p>
+        <ul>
+            <li>Effective Date</li>
+            <li>Start Date</li>
+            <li>Initial Term</li>
+            <li>Further Term</li>
+        </ul>
+        <p>It supports both text-based PDFs and scanned documents (using OCR).</p>
+        
+        <h2>Features</h2>
+        <ul>
+            <li><strong>Upload Multiple PDFs:</strong> Process one or multiple contract PDFs at once</li>
+            <li><strong>Smart Text Extraction:</strong> Uses standard PDF libraries for text-based PDFs and OCR for scanned documents</li>
+            <li><strong>Enhanced Results Display:</strong> Shows extracted data in a well-formatted tabular format with filtering options</li>
+            <li><strong>Export Options:</strong> Download results as CSV or Excel files</li>
+        </ul>
+        
+        <h2>How to Run This Application</h2>
+        <p>To use this application, you need to run it locally:</p>
+        <ol>
+            <li>Clone the repository from GitHub:
+                <br><code>git clone https://github.com/Aresgod112/pdfparser.git</code>
+                <br><code>cd pdfparser</code>
+            </li>
+            <li>Install the required dependencies:
+                <br><code>pip install -r requirements.txt</code>
+            </li>
+            <li>Run the application:
+                <br><code>streamlit run app.py</code>
+            </li>
+        </ol>
+        
+        <a href="https://github.com/Aresgod112/pdfparser" class="button">View on GitHub</a>
+    </div>
+    
+    <div class="footer">
+        Developed with ❤️ using Streamlit, PyPDF2, and Tesseract OCR
+    </div>
+</body>
+</html>
